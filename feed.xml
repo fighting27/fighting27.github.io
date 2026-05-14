@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>fighting27的博客 | 壹人小站</title>
+        <link>https://fighting27.github.io/</link>
+        <description>总是畏惧海洋的人，是无法离开岸边的</description>
+        <lastBuildDate>Thu, 14 May 2026 16:13:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>fighting27的博客 | 壹人小站</title>
+            <url>https://fighting27.github.io/images/avatar.jpg</url>
+            <link>https://fighting27.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © fighting27</copyright>
+        <atom:link href="https://fighting27.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Valaxy!！！！]]></title>
+            <link>https://fighting27.github.io/posts/hello-valaxy</link>
+            <guid isPermaLink="false">https://fighting27.github.io/posts/hello-valaxy</guid>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://fighting27.github.io/posts/hello-valaxy" target="_blank">https://fighting27.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (fighting27)</author>
+        </item>
+        <item>
+            <title><![CDATA[头歌包过教程(对付给看输出的那种实验)]]></title>
+            <link>https://fighting27.github.io/posts/first</link>
+            <guid isPermaLink="false">https://fighting27.github.io/posts/first</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>实验操作步骤（命令行 + 图形化）</h1>
+<h2>一、 命令行操作（适用于代码类实验）</h2>
+<ol>
+<li>执行命令切换到根目录<pre><code class="language-bash">cd ../
+</code></pre>
+</li>
+<li>进入</li>
+</ol>
+<br/><p>访问 <a href="https://fighting27.github.io/posts/first" target="_blank">https://fighting27.github.io/posts/first</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (fighting27)</author>
+        </item>
+    </channel>
+</rss>

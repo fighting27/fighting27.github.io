@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fighting27的博客 | 壹人小站",
+    "home_page_url": "https://fighting27.github.io/",
+    "feed_url": "https://fighting27.github.io/feed.json",
+    "description": "总是畏惧海洋的人，是无法离开岸边的",
+    "icon": "https://fighting27.github.io/images/avatar.jpg",
+    "author": {
+        "name": "fighting27",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://fighting27.github.io/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/hello-valaxy\" target=\"_blank\">https://fighting27.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!！！！",
+            "date_modified": "2026-04-01T00:00:00.000Z",
+            "date_published": "2026-04-01T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/first",
+            "content_html": "<h1>实验操作步骤（命令行 + 图形化）</h1>\n<h2>一、 命令行操作（适用于代码类实验）</h2>\n<ol>\n<li>执行命令切换到根目录<pre><code class=\"language-bash\">cd ../\n</code></pre>\n</li>\n<li>进入</li>\n</ol>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/first\" target=\"_blank\">https://fighting27.github.io/posts/first</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/first",
+            "title": "头歌包过教程(对付给看输出的那种实验)",
+            "date_modified": "2025-12-01T00:00:00.000Z",
+            "date_published": "2025-12-01T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

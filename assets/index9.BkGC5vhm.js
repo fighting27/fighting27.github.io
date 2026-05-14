@@ -1,0 +1,1 @@
+import{$ as e}from"./theme.BNUO_ooe.js";var t=e({cast(e){return typeof e==`string`?{url:e}:e},defaults:{"@type":`VirtualLocation`}});export{t as virtualLocationResolver};

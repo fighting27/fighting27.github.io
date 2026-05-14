@@ -1,0 +1,1 @@
+import{$ as e}from"./theme.BNUO_ooe.js";var t=e({defaults:{"@type":`PostalAddress`}});export{t as addressResolver};
