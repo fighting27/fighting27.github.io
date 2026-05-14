@@ -1,0 +1,1 @@
+import{$ as e}from"./theme.DTX-QtW1.js";var t=e({defaults:{"@type":`AggregateRating`}});export{t as aggregateRatingResolver};

@@ -1,1 +1,0 @@
-import{$ as e}from"./theme.ldkm8Iel.js";var t=e({defaults:{"@type":`PostalAddress`}});export{t as addressResolver};
