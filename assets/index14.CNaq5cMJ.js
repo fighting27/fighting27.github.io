@@ -1,1 +1,0 @@
-import{Q as e,lt as t,st as n}from"./theme.C7LPTkgE.js";import{listItemResolver as r}from"./index16.DtPYkuL0.js";var i=e({defaults:{"@type":`ItemList`},resolve(e,i){if(e.itemListElement){let a=1;e.itemListElement=n(e.itemListElement,i,r,{array:!0,afterResolve(e){t(e,`position`,a++)}})}return e}});export{i as itemListResolver};
