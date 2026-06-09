@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fighting27.github.io/</id>
     <title>fighting27的博客 | 壹人小站</title>
-    <updated>2026-05-17T04:25:43.373Z</updated>
+    <updated>2026-06-09T07:45:29.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>fighting27</name>
@@ -15,6 +15,25 @@
     <logo>https://fighting27.github.io/images/avatar.jpg</logo>
     <icon>https://fighting27.github.io/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2026 © fighting27</rights>
+    <entry>
+        <title type="html"><![CDATA[宝塔部署前后端项目踩坑全记录（Node + Python + Nginx）]]></title>
+        <id>https://fighting27.github.io/posts/baota-deploy</id>
+        <link href="https://fighting27.github.io/posts/baota-deploy"/>
+        <updated>2026-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[记录简易记账首次上线]]></summary>
+        <content type="html"><![CDATA[<h1>宝塔部署前后端项目踩坑全记录</h1>
+<p>本文记录了我在宝塔面板部署「前端服务 + Node 后端 + Python 后端」项目时，遇到的常见问题和对应的解决方案。</p>
+<hr>
+<h2>一、了解整</h2>
+<br/><p>访问 <a href="https://fighting27.github.io/posts/baota-deploy" target="_blank">https://fighting27.github.io/posts/baota-deploy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>fighting27</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2026-05-31T00:00:00.000Z</published>
+        <rights>true</rights>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello, Valaxy!！！！]]></title>
         <id>https://fighting27.github.io/posts/hello-valaxy</id>
@@ -32,26 +51,5 @@
             <uri>https://valaxy.site</uri>
         </author>
         <published>2026-04-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[头歌包过教程(对付给看输出的那种实验)]]></title>
-        <id>https://fighting27.github.io/posts/first</id>
-        <link href="https://fighting27.github.io/posts/first"/>
-        <updated>2025-12-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h1>实验操作步骤（命令行 + 图形化）</h1>
-<h2>一、 命令行操作（适用于代码类实验）</h2>
-<ol>
-<li>执行命令切换到根目录<pre><code class="language-bash">cd ../
-</code></pre>
-</li>
-<li>进入</li>
-</ol>
-<br/><p>访问 <a href="https://fighting27.github.io/posts/first" target="_blank">https://fighting27.github.io/posts/first</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>fighting27</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-12-01T00:00:00.000Z</published>
     </entry>
 </feed>
