@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://fighting27.github.io/posts/ai",
+            "content_html": "<h1><span style=\"color: #33ffa3;\">Ai核心概念</span></h1>\n<h2>一、LLM 大语言模型</h2>\n<h3>1. 主流应用产品</h3>\n<p>Claude、Gemini、ChatGP</p>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/ai\" target=\"_blank\">https://fighting27.github.io/posts/ai</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/ai",
+            "title": "AI核心概念",
+            "summary": "Ai核心概念",
+            "date_modified": "2026-06-08T00:00:00.000Z",
+            "date_published": "2026-06-08T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
             "id": "https://fighting27.github.io/posts/baota-deploy",
             "content_html": "<h1>宝塔部署前后端项目踩坑全记录</h1>\n<p>本文记录了我在宝塔面板部署「前端服务 + Node 后端 + Python 后端」项目时，遇到的常见问题和对应的解决方案。</p>\n<hr>\n<h2>一、了解整</h2>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/baota-deploy\" target=\"_blank\">https://fighting27.github.io/posts/baota-deploy</a> 阅读全文。</p>",
             "url": "https://fighting27.github.io/posts/baota-deploy",

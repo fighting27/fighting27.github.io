@@ -4,7 +4,7 @@
         <title>fighting27的博客 | 壹人小站</title>
         <link>https://fighting27.github.io/</link>
         <description>总是畏惧海洋的人，是无法离开岸边的</description>
-        <lastBuildDate>Tue, 09 Jun 2026 07:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 07:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,19 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2026 © fighting27</copyright>
         <atom:link href="https://fighting27.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI核心概念]]></title>
+            <link>https://fighting27.github.io/posts/ai</link>
+            <guid isPermaLink="false">https://fighting27.github.io/posts/ai</guid>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ai核心概念]]></description>
+            <content:encoded><![CDATA[<h1><span style="color: #33ffa3;">Ai核心概念</span></h1>
+<h2>一、LLM 大语言模型</h2>
+<h3>1. 主流应用产品</h3>
+<p>Claude、Gemini、ChatGP</p>
+<br/><p>访问 <a href="https://fighting27.github.io/posts/ai" target="_blank">https://fighting27.github.io/posts/ai</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (fighting27)</author>
+        </item>
         <item>
             <title><![CDATA[宝塔部署前后端项目踩坑全记录（Node + Python + Nginx）]]></title>
             <link>https://fighting27.github.io/posts/baota-deploy</link>
