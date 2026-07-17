@@ -1,0 +1,104 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fighting27的博客 | 壹人小站",
+    "home_page_url": "https://fighting27.github.io/",
+    "feed_url": "https://fighting27.github.io/feed.json",
+    "description": "总是畏惧海洋的人，是无法离开岸边的",
+    "icon": "https://fighting27.github.io/images/avatar.jpg",
+    "author": {
+        "name": "fighting27",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "https://fighting27.github.io/posts/ai",
+            "content_html": "<h1><span style=\"color: #33ffa3;\">Ai核心概念</span></h1>\n<h2>一、LLM 大语言模型</h2>\n<h3>1. 主流应用产品</h3>\n<p>Claude、Gemini、ChatGPT</p>\n<h1></h1>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/ai\" target=\"_blank\">https://fighting27.github.io/posts/ai</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/ai",
+            "title": "AI核心概念",
+            "summary": "Ai核心概念",
+            "date_modified": "2026-06-08T00:00:00.000Z",
+            "date_published": "2026-06-08T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/baota-deploy",
+            "content_html": "<h1>宝塔部署前后端项目踩坑全记录</h1>\n<p>本文记录了我在宝塔面板部署「前端服务 + Node 后端 + Python 后端」项目时，遇到的常见问题和对应的解决方案。</p>\n<hr>\n<h2>一、了解整体项目结构</h2>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/baota-deploy\" target=\"_blank\">https://fighting27.github.io/posts/baota-deploy</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/baota-deploy",
+            "title": "宝塔部署前后端项目踩坑全记录（Node + Python + Nginx）",
+            "summary": "记录简易记账首次上线",
+            "date_modified": "2026-05-31T00:00:00.000Z",
+            "date_published": "2026-05-31T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/hello-valaxy",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/hello-valaxy\" target=\"_blank\">https://fighting27.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!！！！",
+            "date_modified": "2026-04-01T00:00:00.000Z",
+            "date_published": "2026-04-01T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/Docker Book",
+            "content_html": "<h1>Docker 基础与实战入门笔记</h1>\n<blockquote>\n<p>Docker 用容器打包应用及其运行环境，让同一个应用能以一致的方式在本地、测试和服务器上运行。<br>\nDocker是一个用于 构建 运行 传送 应用程序的</p>\n</blockquote>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/Docker Book\" target=\"_blank\">https://fighting27.github.io/posts/Docker Book</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/Docker Book",
+            "title": "Docker 基础与实战入门笔记",
+            "summary": "从镜像、容器、数据卷到 Docker Compose，掌握本地开发与服务部署常用操作",
+            "date_modified": "2026-03-14T00:00:00.000Z",
+            "date_published": "2026-03-14T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/Nginx",
+            "content_html": "<h1>Nginx 反向代理与负载均衡入门笔记</h1>\n<blockquote>\n<p>能读懂常见的 Nginx 配置，并完成静态站点、后端反向代理和多实例负载均衡。</p>\n</blockquote>\n<ul>\n<li>反向代理:你访问的是代理服务器，代理服务器再帮你去找真正的服务</li>\n</ul>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/Nginx\" target=\"_blank\">https://fighting27.github.io/posts/Nginx</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/Nginx",
+            "title": "Nginx 反向代理与负载均衡入门笔记",
+            "summary": "通过常见配置示例理解 Nginx 的 server、location、反向代理与负载均衡",
+            "date_modified": "2025-11-14T00:00:00.000Z",
+            "date_published": "2025-11-14T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/Git Book",
+            "content_html": "<h1>Git 基础入门学习笔记</h1>\n<blockquote>\n<p>Git 是分布式版本控制系统。它记录文件的变化，让开发者能够查看历史、协作开发、创建分支，并在需要时恢复到可靠版本。</p>\n</blockquote>\n<h2>1. Git 的核心概念</h2>\n<p>Git</p>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/Git Book\" target=\"_blank\">https://fighting27.github.io/posts/Git Book</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/Git Book",
+            "title": "Git 基础学习笔记",
+            "summary": "从仓库初始化、提交、分支协作到撤销与远程同步，掌握 Git 的日常开发工作流",
+            "date_modified": "2025-10-14T00:00:00.000Z",
+            "date_published": "2025-10-14T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "https://fighting27.github.io/posts/linux",
+            "content_html": "<h1>Linux 基础入门笔记</h1>\n<blockquote>\n<p>面向初学者，示例使用 Bash。适用于 Ubuntu、Debian、CentOS、Rocky Linux、AlmaLinux 等常见发行版。</p>\n</blockquote>\n<h2>1. Lin</h2>\n<br/><p>访问 <a href=\"https://fighting27.github.io/posts/linux\" target=\"_blank\">https://fighting27.github.io/posts/linux</a> 阅读全文。</p>",
+            "url": "https://fighting27.github.io/posts/linux",
+            "title": "Linux 基础入门学习笔记",
+            "summary": "从文件操作、权限管理到进程服务与网络排错，快速掌握 Linux 常用基础命令",
+            "date_modified": "2025-10-13T00:00:00.000Z",
+            "date_published": "2025-10-13T00:00:00.000Z",
+            "author": {
+                "name": "fighting27",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
